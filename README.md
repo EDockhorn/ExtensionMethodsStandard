@@ -1,2 +1,3 @@
 # ExtensionMethodsStandard
-Extension Methods C# dotnet Standard based
+Extension Methods C# dotnet Standard Based.
+Class Library Project
